@@ -1,14 +1,16 @@
 samples:
-  PRI-TJPGK-CATN-96-98: PRI-TJPGK-CATN-96-98.fq.gz.sort.bam
-  PRI-TJPGK-CATN-112-114: PRI-TJPGK-CATN-112-114.fq.gz.sort.bam
-  PRI-TJPGK-CATN-160-162: PRI-TJPGK-CATN-160-162.fq.gz.sort.bam
-  PRI-TJPGK-CATN-288-290: PRI-TJPGK-CATN-288-290.fq.gz.sort.bam
-  PRI-TJPGK-EC-1: PRI-TJPGK-EC-1.fq.gz.sort.bam
-  PRI-TJPGK-EC-3: PRI-TJPGK-EC-3.fq.gz.sort.bam
+  PRI-TJPGK-CATN-96-98: PRI-TJPGK-CATN-96-98.sort.bam
+  PRI-TJPGK-CATN-96-98: PRI-TJPGK-CATN-96-98.sort.bam
+  PRI-TJPGK-CATN-112-114: PRI-TJPGK-CATN-112-114.sort.bam
+  PRI-TJPGK-CATN-160-162: PRI-TJPGK-CATN-160-162.sort.bam
+  PRI-TJPGK-CATN-224-226: PRI-TJPGK-CATN-224-226.sort.bam
+  PRI-TJPGK-CATN-288-290: PRI-TJPGK-CATN-288-290.sort.bam
+  PRI-TJPGK-EC-1: PRI-TJPGK-EC-1.sort.bam
+  PRI-TJPGK-EC-3: PRI-TJPGK-EC-3.sort.bam
 metaDMG_cpp: /usr/local/bin/metaDMG-cpp
-names: /home/user-8/course/data/shared/mapping/taxonomy/names.dmp
-nodes: /home/user-8/course/data/shared/mapping/taxonomy/nodes.dmp
-acc2tax: /home/user-8/course/data/shared/mapping/taxonomy/acc2taxid.map.gz
+names: /home/user-22/course/data/shared/mapping/taxonomy/names.dmp
+nodes: /home/user-22/course/data/shared/mapping/taxonomy/nodes.dmp
+acc2tax: /home/user-22/course/data/shared/mapping/taxonomy/acc2taxid.map.gz
 min_similarity_score: 0.95
 max_similarity_score: 1.0
 min_mapping_quality: 0
