@@ -12,3 +12,9 @@ and then run  the bash script with
 ```
 nice -19 nohup ./assignment-2.sh > log.out &
 ```
+# Day2
+
+Calculate the readlength of different samples and make a plot with R using package GGPLOT2
+```
+./read_lengths.sh
+```
