@@ -10,5 +10,5 @@ ls -n ~/course/data/day2/fastq/* .
 and then run  the bash script with 
 
 ```
-nice -19 nohup ./assignment_2.sh > log.out &
+nice -19 nohup ./assignment-2.sh > log.out &
 ```
