@@ -18,3 +18,19 @@ Calculate the readlength of different samples and make a plot with R using packa
 ```
 ./read_lengths.sh
 ```
+
+# Day3
+
+Run euka on all the trimmed fastq files and check the results
+```
+~/course/data/vgan/bin/vgan euka -fq1 <(zcat ~/course/wdir/day2/mapping/*.vs.fq.gz) -o all_files -t 5 --euka_dir euka_dir/
+less all_files_abundance.tsv | grep yes
+```
+The results shows 
+
+```
+Bovidae yes     108     1
+```
+
+
+
