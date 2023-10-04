@@ -26,6 +26,8 @@ Calculate the readlength of different samples and make a plot with R using packa
 
 ![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/13e03c45-ca03-4d57-8a43-16f1c86b82c6)
 
+We set the LR3 to be 5, since we would like to avoid the impact from non-ancient sequences, however in the end, MAP_significance of 5 could be too high.
+
 ![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/8f9493cc-84a5-4f5f-9443-c4fcffe0bfcd)
 
 
