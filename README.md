@@ -69,6 +69,8 @@ Output from f4-statistics
 3 Polar Mexican West      East  0.00435 0.000662  6.57 5.03e-11 12566
 4 Polar Mexican Southwest East  0.00525 0.000857  6.13 8.91e-10 12566
 ```
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/b963aa40-0e80-43e0-a3ec-8029c1e28cf0)
+
 Output from f3-statistics
 ```
 > r
@@ -79,4 +81,9 @@ Output from f3-statistics
 2 SEAK  East    Southwest  0.0198  0.00191 10.4   3.62e-25 174734
 3 SEAK  Kenai   Southwest -0.00165 0.00212 -0.777 4.37e- 1 174659
 ```
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/f6cbd0d0-1fdc-4bea-8b48-90a28675a515)
+
+The neighbor joining tree based on Fst matrix
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/95f5c9d1-b5e5-40b6-bc3d-dc4834a69f45)
+
 
