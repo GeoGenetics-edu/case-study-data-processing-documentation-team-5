@@ -20,6 +20,12 @@ Calculate the readlength of different samples and make a plot with R using packa
 ```
 
 # Day3
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/c165216a-8338-4012-bdaf-7f7603576b86)
+
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/b7d5c94f-1d0d-4e40-b870-c76724b8fba8)
+
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/13e03c45-ca03-4d57-8a43-16f1c86b82c6)
+
 
 ![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/406bab5f-8511-4eab-bc3c-229786cc0641)
 
