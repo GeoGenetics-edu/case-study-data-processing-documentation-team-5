@@ -21,6 +21,9 @@ Calculate the readlength of different samples and make a plot with R using packa
 
 # Day3
 
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/406bab5f-8511-4eab-bc3c-229786cc0641)
+
+
 Run euka on all the trimmed fastq files and check the results
 ```
 ~/course/data/vgan/bin/vgan euka -fq1 <(zcat ~/course/wdir/day2/mapping/*.vs.fq.gz) -o all_files -t 5 --euka_dir euka_dir/
