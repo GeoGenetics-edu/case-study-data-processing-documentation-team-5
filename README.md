@@ -14,6 +14,16 @@ nice -19 nohup ./assignment-2.sh > log.out &
 ```
 # Day2
 
+Run ngsLCA before metaDMG
+
+```
+for i in $(ls *.sort.bam | awk -F "." '{print $1}')
+do
+echo $i
+metaDMG-cpp lca -bam ${i}.sort.bam -names ~/course/data/shared/mapping/taxonomy/names.dmp -nodes ~/course/data/shared/mapping/taxonomy/nodes.dmp -acc2tax ~/course/data/shared/mapping/taxonomy/acc2taxid.map.gz -weighttype 1 -fix_ncbi 0 -out ${i}
+```
+
+
 Calculate the readlength of different samples and make a plot with R using package GGPLOT2
 ```
 ./read_lengths.sh
