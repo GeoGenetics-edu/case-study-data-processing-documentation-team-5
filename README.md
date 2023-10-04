@@ -26,8 +26,7 @@ Calculate the readlength of different samples and make a plot with R using packa
 
 ![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/13e03c45-ca03-4d57-8a43-16f1c86b82c6)
 
-
-![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/406bab5f-8511-4eab-bc3c-229786cc0641)
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/8f9493cc-84a5-4f5f-9443-c4fcffe0bfcd)
 
 
 Run euka on all the trimmed fastq files and check the results
