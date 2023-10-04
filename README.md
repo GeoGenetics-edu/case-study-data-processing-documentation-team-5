@@ -56,6 +56,7 @@ Bovidae yes     108     1
 ```
 
 ## PCA & f-statistics
+Outgroup (polar bear) removed 
 ![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/5de6060c-9e03-4916-a6d1-957b4a3c25a2)
 
 Output from f4-statistics
