@@ -88,4 +88,14 @@ Output from f3-statistics
 The neighbor joining tree based on Fst matrix
 ![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/95f5c9d1-b5e5-40b6-bc3d-dc4834a69f45)
 
+Quick and dirty find_graphs() run
+```
+graph<-find_graphs(data_prefix, outpop = outgroup,numadmix=2)
+
+graph2<-find_graphs(data_prefix, outpop = outgroup,numadmix=2,initgraphs = graph$edges[[61]])
+graph3<-find_graphs(data_prefix, outpop = outgroup,numadmix=2,initgraphs = graph2$edges[[51]])
+```
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/25bfaa67-3848-4a97-b9f3-df1ba21e4d0c)
+
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/d1ef6cb2-7b22-4c0b-a181-bae12cc0d58d)
 
