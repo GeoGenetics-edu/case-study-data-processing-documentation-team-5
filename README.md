@@ -21,6 +21,7 @@ for i in $(ls *.sort.bam | awk -F "." '{print $1}')
 do
 echo $i
 metaDMG-cpp lca -bam ${i}.sort.bam -names ~/course/data/shared/mapping/taxonomy/names.dmp -nodes ~/course/data/shared/mapping/taxonomy/nodes.dmp -acc2tax ~/course/data/shared/mapping/taxonomy/acc2taxid.map.gz -weighttype 1 -fix_ncbi 0 -out ${i}
+done
 ```
 
 
