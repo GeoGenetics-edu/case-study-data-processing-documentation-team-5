@@ -116,3 +116,4 @@ Overall alignment rate of the three candidate species
 ![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/19f9e36b-c2d7-4cdd-88d2-c77ba844b559)
 
 Detailed mapping coverages of each contigs with the gene annotations
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/4862f941-5a9f-4a67-a3c9-03cbdea75db5)
