@@ -60,9 +60,7 @@ Bovidae yes     108     1
 You can also read how to interprete the results [here](https://uqrmaie1.github.io/admixtools/articles/admixtools.html#f3-and-qp3pop)
 
 
-With all the data:
-
-![image]()
+(Including the outgroup see modern_all.pdf)
 
 Outgroup (polar bear) removed: 
 
