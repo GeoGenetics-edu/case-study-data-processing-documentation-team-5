@@ -25,7 +25,7 @@ done
 ```
 
 
-Calculate the readlength of different samples and make a plot with R using package GGPLOT2
+Calculate the readlength of different samples and make a plot with R using package ggplot2
 ```
 ./read_lengths.sh
 ```
