@@ -57,7 +57,8 @@ Bovidae yes     108     1
 ```
 
 ## PCA & f-statistics
-You can also read how to interprete the results ![here](https://uqrmaie1.github.io/admixtools/articles/admixtools.html#f3-and-qp3pop)
+You can also read how to interprete the results [here](https://uqrmaie1.github.io/admixtools/articles/admixtools.html#f3-and-qp3pop)
+
 Outgroup (polar bear) removed 
 
 ![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/5de6060c-9e03-4916-a6d1-957b4a3c25a2)
