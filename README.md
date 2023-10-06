@@ -109,6 +109,8 @@ best admixture graph found in graph3 run
 ![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/d1ef6cb2-7b22-4c0b-a181-bae12cc0d58d)
 
 # Day4
+Damage of taxa
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/fc7f5bf6-3a94-49c2-84a7-2382b4ef34ae)
 
 # Day5
 
