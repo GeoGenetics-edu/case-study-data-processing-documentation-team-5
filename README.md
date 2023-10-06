@@ -108,3 +108,12 @@ best admixture graph found in graph2 run
 best admixture graph found in graph3 run
 ![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/d1ef6cb2-7b22-4c0b-a181-bae12cc0d58d)
 
+# Day4
+
+# Day5
+
+Overall alignment rate of the three candidate species
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/19f9e36b-c2d7-4cdd-88d2-c77ba844b559)
+
+Detailed mapping coverages of each contigs with the gene annotations
+![image](https://github.com/GeoGenetics-edu/case-study-data-processing-documentation-team-5/assets/26409503/d0bf7d91-fdf0-45b4-bb61-85adb329f1f1)
